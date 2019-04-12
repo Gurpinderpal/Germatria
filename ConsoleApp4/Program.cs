@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+        }
 using System.Threading.Tasks;
 
 namespace Gematria
@@ -15,7 +16,6 @@ namespace Gematria
             Program p = new Program();
             Console.WriteLine(p.Gemetria("universe"));
 
-        }
         public int Gemetria(string word)
         {
             int gematriaValue = 0;
