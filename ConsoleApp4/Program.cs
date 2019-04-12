@@ -37,5 +37,5 @@ namespace Gematria
             return x;
         }
     }
+
 }
-    
